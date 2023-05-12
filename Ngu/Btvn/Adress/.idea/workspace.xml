@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac32bda3-e422-45f9-bf51-2e3f70e01bbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/day12/day12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/day13/day13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/day14/day14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/ngay10/ngay10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/ngay11/ngay11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/ngay3/ngay3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/ngay4/ngay4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/ngay5/ngay5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/ngay6/ngay6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Baitap/ngay7/ngay7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AQuan/Btvn/minitest/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AQuan/Btvn/minitest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/day12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/src/Brand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day12/src/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/day13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/src/Demo/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/src/Demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day13/src/bai1/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/day14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/src/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/src/Generic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/src/MyUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/day14/src/Willcard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/ngay10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/src/Demo/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/src/Demo/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/src/Demo/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/src/Demo/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/src/Demo/interfaceImple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay10/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay11/ngay11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay11/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/ngay3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/src/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/src/Th2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/src/bt1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/src/bt2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay3/src/bt3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/ngay4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/baith1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/baith2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/baith3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay4/src/baith4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/ngay5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/baith1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/baith2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/baith3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/baith4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/baith5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/timkitu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay5/src/tinhtong2duongcheo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/ngay6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/src/pack2/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/src/pack3/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/src/packs1/DemoAccessModifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/src/packs1/DemoPro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay6/src/packs1/priDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/ngay7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/src/pack1/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/src/pack1/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/src/pack1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/src/pack1/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuan5/ngay7/src/pack2/Parent.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2OJwINpFHRxrEBAwY8tUTM2d6NG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Modul2/Baitap/Day19",
+    "onboarding.tips.debug.path": "C:/Modul2/Ngu/Btvn/Adress/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <module name="Adress" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac32bda3-e422-45f9-bf51-2e3f70e01bbb" name="Changes" comment="" />
+      <created>1681291912210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681291912210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
